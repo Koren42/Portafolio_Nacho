@@ -1,0 +1,10 @@
+com\tienda\domain\Ruta.class
+com\tienda\domain\Categoria.class
+com\tienda\controller\CategoriaController.class
+com\tienda\service\CategoriaService.class
+com\tienda\domain\Producto.class
+com\tienda\ProjectConfig.class
+com\tienda\domain\Rol.class
+com\tienda\repository\CategoriaRepository.class
+com\tienda\DemoApplication.class
+com\tienda\domain\Usuario.class
